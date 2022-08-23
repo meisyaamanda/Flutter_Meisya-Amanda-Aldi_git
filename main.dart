@@ -3,4 +3,6 @@ void main(){
   print('Nama:');
   print('featureA:');
   print('featureA1:');
+
+  print('aldi');
 }
